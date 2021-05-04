@@ -1,3 +1,4 @@
+minesweeper game for terminal, shown as ASCII characters.
 download [haskell](https://www.haskell.org/) and the [random](https://hackage.haskell.org/package/random-1.2.0/docs/System-Random.html) package
 
 stack is not working flowlessly for some reason, therefore build the game without it:
